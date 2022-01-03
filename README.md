@@ -93,7 +93,7 @@ the pairing exercises together and give feedback.
 
 ### Week 2: Recursion
 
-- [ ] [Introduction to Recursion](./02-week-2--recursion/00-introduction-to-recursion)
+- [x] [Introduction to Recursion](./02-week-2--recursion/00-introduction-to-recursion)
 - [ ] [Day 1: Recursive Counting](./02-week-2--recursion/01-day-1--recursive-counting)
 - [ ] [Day 2: Recursive Search](./02-week-2--recursion/02-day-2--recursive-search)
 - [ ] [Day 3: Recursive Fibonacci Series](./02-week-2--recursion/03-day-3--recursive-fibonacci-series)

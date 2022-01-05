@@ -8,6 +8,7 @@ function recursiveSearch(arr, target) {
   }
 
   return recursiveSearch(arr.slice(1), target);
+  
 }
 
 if (require.main === module) {
